@@ -10,6 +10,7 @@ namespace _28FevAula12TentantoGit3
             Console.WriteLine("tryyyy");
             Console.WriteLine("tryyyyAgain");
             Console.WriteLine("thisIsNew");
+            Console.WriteLine("thisIsNewCommit");
 
 
 
