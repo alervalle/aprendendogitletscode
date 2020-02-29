@@ -7,6 +7,8 @@ namespace _28FevAula12TentantoGit3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! especial");
+            Console.WriteLine("tryyyy");
+
         }
     }
 }
