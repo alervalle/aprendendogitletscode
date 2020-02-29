@@ -11,6 +11,8 @@ namespace _28FevAula12TentantoGit3
             Console.WriteLine("tryyyyAgain");
             Console.WriteLine("thisIsNew");
             Console.WriteLine("thisIsNewCommit");
+            Console.WriteLine("oMaisNovoCommitDeTodos");
+
 
 
 
